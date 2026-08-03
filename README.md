@@ -1,1 +1,1 @@
-[gpu](https://natthinan22.github.io/Transformation/charctervillage.obj)
+[gpu](https://natthinan22.github.io/Transformation/charactervillage.obj)
